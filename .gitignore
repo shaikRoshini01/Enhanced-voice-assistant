@@ -2,3 +2,5 @@
 __pycache__/
 notes.txt
 config.py
+.env
+.vscode/
