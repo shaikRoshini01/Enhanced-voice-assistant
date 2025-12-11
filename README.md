@@ -66,7 +66,7 @@ Used to fetch top news headlines (India by default)
 
 5. Speaks the result back to you
 
-Simple, fast, and interactive.
+   Simple, fast, and interactive.
 
 
 ---
